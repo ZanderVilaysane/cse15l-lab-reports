@@ -1,5 +1,5 @@
 ## CSE 15L Lab Reports 
 
 The contents on this page will include future lab reports!
-
-- Zander
+Contents so far: 
+- Lab 2
