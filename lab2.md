@@ -20,3 +20,8 @@ Below is a visual of a mini skit about a dinosaur
 1. Reminder to drink plenty of water today! It's very hot 
 2. Be sure to get plenty of rest each night :)
 3. If you're struggling to balance classes, you got this <3
+
+`Take it easy` 
+```
+Today is a good day to go to the beach
+```
