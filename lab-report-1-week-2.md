@@ -1,7 +1,7 @@
 # Week 2 Lab Report
-## Topic: Remote Access 
+## Topic: Remote Access (Windows Edition)
 
-### How-To Tutorial on: logging into a course-specific account on `ieng6`
+### How-To Tutorial on: logging into a course-specific account on `**ieng6**`
 #### Step 1: Install VScode
 Download Visual Studio Code to your device by clicking [**HERE**][VScode Link]
 
