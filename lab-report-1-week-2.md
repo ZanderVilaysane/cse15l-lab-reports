@@ -1,5 +1,6 @@
 # Week 2 Lab Report
 ## Topic: Remote Access via VScode
+### Author: Zander Vilaysane
 
 ### How-To Tutorial on: logging into a course-specific account on `**ieng6**`
 ### Step 1: Install VScode
