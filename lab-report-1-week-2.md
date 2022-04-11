@@ -1,6 +1,6 @@
 # Week 2 Lab Report
 ## Topic: Remote Access via VScode
-##### Author: Zander Vilaysane
+#### Author: Zander Vilaysane
 
 ### How-To Tutorial on: logging into a course-specific account on `**ieng6**`
 ### Step 1: Install VScode
@@ -52,6 +52,8 @@ Within the command prompt, test out these commands:
 - One method to optimize the remote running process is through the use of semicolons inbetween commands. This allows multiple commands to string in the same command line, optimizing runtime within the terminal. 
 ![Optimizing Remote Running][Remote Run SS]
 > This is an example of how semicolons are utilized within the terminal.
+---
+
 [VScode Link]: https://code.visualstudio.com/
 [VScode SS]: https://user-images.githubusercontent.com/103156131/162597326-4984a9c9-627c-4c1a-bafd-4ecc29601f57.JPG
 [SSH Link]: https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse
