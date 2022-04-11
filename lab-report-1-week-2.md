@@ -9,7 +9,6 @@ Download Visual Studio Code to your device by clicking [**HERE**][VScode Link]. 
 ![Installing VScode][VScode SS]
 > When you open up the VScode program, you should expect to see a similiar layout above! If so, you're doing great so far.
 
----
 ### Step 2: Connecting to a Remote Server
 1.  (For Windows) Download OpenSSH to your device by clicking [**here**][SSH Link]. This is needed to connect remotely!
 2. Navigate to your course-specific account by clicking [**here**][Course Link].
@@ -21,7 +20,6 @@ Download Visual Studio Code to your device by clicking [**HERE**][VScode Link]. 
 ![Remotely Connecting][Remote SS]
 > When you log in remotely through terminal, you should expect to see a similiar status pop up. *Note:* Some data may not look exactly the same as the one shown above!
 
----
 ### Step 3: Experiment and Familiarize w/ the Following Commands
 Within the command prompt, test out these commands: 
 - cd "directory name": will access the directory typed in 
@@ -32,14 +30,12 @@ Within the command prompt, test out these commands:
 ![Trying Some Commands][Commands SS]
 > This is an example of what `ls -a` may show. If something similiar appears for you, then you correctly accessed your acccount remotely so far!
 
----
 ### Step 4: Understanding scp & How to Move Files
 - Access the directory where your selected file is located
 - Run this command with your username and log-in: `scp fileName.java cs15lsp22zz@ieng6.ucsd.edu:~/` 
 ![Moving Files with scp][scp SS]
 > The split terminals above showcases the server terminal and client terminal.
 
----
 ### Step 5: Setting an SSH Key
 1. On the client terminal, enter `ssh-keygen` and hit enter twice when a passphrase is prompted.
 2. Copy the public key found in the .ssh directory to the server terminal.
@@ -52,6 +48,7 @@ Within the command prompt, test out these commands:
 - One method to optimize the remote running process is through the use of semicolons inbetween commands. This allows multiple commands to string in the same command line, optimizing runtime within the terminal. 
 ![Optimizing Remote Running][Remote Run SS]
 > This is an example of how semicolons are utilized within the terminal.
+
 ---
 
 [VScode Link]: https://code.visualstudio.com/
