@@ -22,11 +22,11 @@ Download Visual Studio Code to your device by clicking [**HERE**][VScode Link]. 
 
 ### Step 3: Experiment and Familiarize w/ the Following Commands
 Within the command prompt, test out these commands: 
-- cd "directory name": will access the directory typed in 
-- cd ~: will access the initial starting directory
-- ls -lat: retrieves name of directory and contents within it
-- ls -a: is similar to -lat but will also include hidden contents
-- pwd: retrieves the directory that we are currently in 
+- ```cd "directory name"``` will access the directory typed in
+- ```cd ~``` will access the initial starting directory
+- ```ls -lat``` retrieves name of directory and contents within it
+- ```ls -a``` is similar to -lat but will also include hidden contents
+- ```pwd``` retrieves the directory that we are currently in
 ![Trying Some Commands][Commands SS]
 > This is an example of what `ls -a` may show. If something similiar appears for you, then you correctly accessed your acccount remotely so far!
 
