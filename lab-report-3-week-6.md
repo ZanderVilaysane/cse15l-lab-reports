@@ -8,6 +8,8 @@
 ![sshLoginSS][sshLogin]
 ### An `scp` command that copies a file into my account is shown below. For this demonstration, we will be adding an example file called `scpTester.md` 
 ![scpcmdFileSS][scpcmd]
+### Seen below is an indication that the file was added to the server: 
+![scpProofSS][scpProof]
 
 ## Setup Github Access from ieng6
 ### The GitHub key is showcased below via GitHub browser access:
@@ -33,6 +35,7 @@
 [configFile]: https://user-images.githubusercontent.com/103156131/167322618-7c82dae8-d07f-4777-969d-514649d6ebc1.JPG
 [sshLogin]: https://user-images.githubusercontent.com/103156131/167322798-18d6a97a-d5f5-471d-9a9d-e231a1222907.JPG
 [scpcmd]: https://user-images.githubusercontent.com/103156131/167322824-d08a7361-4863-4ce4-aba5-23c49037f94e.JPG
+[scpProof]: https://user-images.githubusercontent.com/103156131/167323696-5c7210af-0a05-4739-979f-bd3f9327973a.JPG
 [pubKey]: https://user-images.githubusercontent.com/103156131/167322679-3428fc86-d48c-4414-a971-75f5aa598229.JPG
 [keys]: https://user-images.githubusercontent.com/103156131/167322618-7c82dae8-d07f-4777-969d-514649d6ebc1.JPG
 [gitcmd]: https://user-images.githubusercontent.com/103156131/167322763-3c467a73-f9ac-4c4f-b00d-6c7d60cf1cd1.JPG
