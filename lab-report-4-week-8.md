@@ -6,16 +6,16 @@
 Note: I determined expected outputs based off CommonMark's preview of a blue underline like [this][random video] as seen in the following visuals' preview box 
 
 ## Snippet 1 Expected Output (via CommonMark)
-![Snippet1Expected][snip1]
 Snippet 1 considers parsing with conditions of backticks
+![Snippet1Expected][snip1]
 
 ## Snippet 2 Expected Output (via CommonMark)
-![Snippet2Expected][snip2]
 Snippet 2 considers parsing with conditions of nested parenthesis/brackets, and escaped brackets
+![Snippet2Expected][snip2]
 
 ## Snippet 3 Expected Output (via CommonMark)
-![Snippet3Expected][snip3]
 Snippet 3 considers parsing with conditions of newlines within brackets/parenthesis
+![Snippet3Expected][snip3]
 
 ## Tests made in my own `MarkdownParseTest.java`
 ![MarkdownParseTests][TestOutputs]
