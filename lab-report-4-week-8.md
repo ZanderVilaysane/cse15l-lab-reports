@@ -23,7 +23,6 @@ Snippet 3 considers parsing with conditions of newlines within brackets/parenthe
 ## My Own Implementation: Snippet 1 Output
 ![Snip1Output][Output1]
 Snippet 1's test **did not pass** due to an `AssertionError`
-- Expected one readable link but instead read 3 nested
 
 ## My Own Implementation: Snippet 2 Output
 ![Snip2Output][Output2]
@@ -62,7 +61,7 @@ Snippet 3's test **did not pass** due to an `AssertionError`
 [snip1]: https://user-images.githubusercontent.com/103156131/169719978-077e97e5-f4f8-40eb-8007-53f5da649035.JPG
 [snip2]:https://user-images.githubusercontent.com/103156131/169719992-e0059f42-fba4-4b1d-810c-314debbdd35b.JPG
 [snip3]: https://user-images.githubusercontent.com/103156131/169719998-5081b8b7-db2a-474e-92eb-17aa7e145662.JPG
-[TestOutputs]: https://user-images.githubusercontent.com/103156131/169719866-fd20e924-0130-4be8-b45e-006408b1d071.JPG
+[TestOutputs]: https://user-images.githubusercontent.com/103156131/169723745-d5397229-4524-45f4-80cf-53cfea41baed.JPG
 [Output1]: https://user-images.githubusercontent.com/103156131/169719948-14672b4e-0f44-41fd-b901-3924187cdbd0.JPG
 [Output2]: https://user-images.githubusercontent.com/103156131/169719960-fea54497-fe18-4040-9f93-4b0df5fa1a3d.JPG
 [Output3]: https://user-images.githubusercontent.com/103156131/169719967-4de138d3-2cef-4726-8469-1a8cfa9d3b5e.JPG
