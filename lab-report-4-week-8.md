@@ -3,7 +3,7 @@
 - The following is my own markdown-parse repo: [Matchubi's Repository][Matchubi]
 - The following repo was reviewed during Lab 7: [Barakar13's Repository][Barakar]
 
-> Note: I determined expected outputs based off CommonMark's preview of a blue underline like [this][random video] as seen in the following visuals' preview box 
+Note: I determined expected outputs based off CommonMark's preview of a blue underline like [this][random video] as seen in the following visuals' preview box 
 
 ## Snippet 1 Expected Output (via CommonMark)
 ![Snippet1Expected][snip1]
@@ -58,9 +58,9 @@ Snippet 3's test **did not pass** due to an `AssertionError`
 ---
 [Matchubi]: https://github.com/matchubi/markdown-parser-ZV
 [Barakar]: https://github.com/Barakar13/markdown-parser
-[random video]: https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) 
+[random video]: https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
 [snip1]: https://user-images.githubusercontent.com/103156131/169719978-077e97e5-f4f8-40eb-8007-53f5da649035.JPG
-[snip2]: https://user-images.githubusercontent.com/103156131/169719992-e0059f42-fba4-4b1d-810c-314debbdd35b.JPG
+[snip2]:https://user-images.githubusercontent.com/103156131/169719992-e0059f42-fba4-4b1d-810c-314debbdd35b.JPG
 [snip3]: https://user-images.githubusercontent.com/103156131/169719998-5081b8b7-db2a-474e-92eb-17aa7e145662.JPG
 [TestOutputs]: https://user-images.githubusercontent.com/103156131/169719866-fd20e924-0130-4be8-b45e-006408b1d071.JPG
 [Output1]: https://user-images.githubusercontent.com/103156131/169719948-14672b4e-0f44-41fd-b901-3924187cdbd0.JPG
